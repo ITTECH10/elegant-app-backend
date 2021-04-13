@@ -1,0 +1,19 @@
+{
+    "vehicleName": "Peugeot 3008 1.6 BlueHDI Allure Sport VIRTUAL COCKPIT -Novi model-",
+    "vehicleImage": ["https://res.cloudinary.com/dgnjonn7z/image/upload/v1618333560/logo-car_qxdtzv.jpg",
+    "https://res.cloudinary.com/dgnjonn7z/image/upload/v1618334618/logo-car-2_mwudmf.jpg"],
+    "priceWithoutTax": "29.990,00 KM",
+    "priceUntilRegistration": 33.990,
+    "manufacturingYear": 2017,
+    "kilometersDrived": 153.680,
+    "vehicleCode": "S113200997",
+    "location": "Sarajevo-Ilidža",
+    "engineType": "Diesel",
+    "bodyWork": "CROSSOVER",
+    "gearStick": "Ručni 6-brzina",
+    "color": "Metalik Plava",
+    "numberOfDoors": "4/5",
+    "engineStrength": "88KW (120 KS)",
+    "vehicleDescription": "Boja: Plava metalic, klimatronic, daljinsko zaključavanje, ESP, ASR, ABS, EBFD, EBA, 8x airbag's, servo, 4x el. podizači stakala, audio sustav, USB priključak, Mirror Link, bluetooth priključak za telefon, WiFi, senzor za kišu, indikator smanjenog pritiska u pneumaticima, automatski zasjenjiv unutrašnji retrovizor, Električna ručna kočnica s opcijom hill assist, maglenke, naslonjač za ruku s pretincem, ISOFIX učvršćivač za dječje sjedalo, sklopivo stražnje sjedalo, dvodjelno 60/40, stražnji naslon za ruku, ukrasni detalji unutrašnjosti od aluminija, krom paket, multifunkcijske tipke na volanu, putno računalo, tempomat i ograničavač brzine, alu-felge 17, el. preklapanje retrovizora, zatamnjena stražnja stakla, krom umetci na prednjem i stražnjem braniku, 2xParking senzori, sportski kožni upravljač, sportska sjedišta, LED dnevna svjetla, ECO Start & Stop, Lane Assist - sustav upozorenja pri napuštanju vozne trake, Sustav za prepoznavanje prometnih znakova, i-Cockpit s digitalnom instrument pločom na 12,3” zaslonu visoke razlučivosti koji je moguće konfigurirati i personalizirati, Navigacija, 8 zaslon osjetljiv na dodir, Allure Sport, Novi model,.....",
+    "vehicleEquipment": ["ABS", "Alarm", "Servo", "Centralno ključanje", "Daljinsko klučanje", "Naslon za glavu nazad", "Zračni jastuci", "ASR", "ESP", "Bluetooth priključak", "Priprema za mobilni uređaj", "Naslon za ruku", "Chrom paket", "Maglenke", "Multifunkcionalne tipke na volanu", "Putno računalo", "Tempomat", "Električno podešavanje ogledala", "El. preklopivi retrovizori", "Senzor za parkiranje sprijeda", "Senzor za parkiranje otraga", "Navigacija", "LED svjetla", "Virtual Cockpit", "Paket opreme: Allure Sport", "Automatska klima", "El. podizači naprijed i nazad", "Aluminijske felge 17", "Unutrašnjost: Štof"]
+}
