@@ -1,9 +1,9 @@
 const express = require('express')
+const vehicleRouter = require('./routers/vehicleRouter')
 
 const app = express()
 
-app.get('/', function(req, res) {
-    res.send('Hello World')
-})
+// ROUTERS
+app.use('/api/v1/vehicles', vehicleRouter)
 
 module.exports = app;
